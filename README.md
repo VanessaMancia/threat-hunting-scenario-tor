@@ -132,9 +132,9 @@ DeviceNetworkEvents
 ### 5. Additional Network Connections - TOR Browser Activity
 
 - **Timestamps:**
-  - `2024-11-08T22:18:08Z` - Connected to `194.164.169.85` on port `443`.
-  - `2024-11-08T22:18:16Z` - Local connection to `127.0.0.1` on port `9150`.
-- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "employee" through the TOR browser.
+  - `2025-06-25 16:28:33Z` - Connected to `80.82.76.55` on port `443`.
+  - `2025-06-25 16:28:06Z` - Local connection to `127.0.0.1` on port `9150`.
+- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "BigMOMMA" through the TOR browser.
 - **Action:** Multiple successful connections detected.
 
 ### 6. File Creation - TOR Shopping List
